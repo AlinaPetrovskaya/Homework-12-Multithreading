@@ -14,14 +14,14 @@ class ViewController: UIViewController {
     @IBOutlet weak var leftBottomImage: UIImageView!
     @IBOutlet weak var rightBottomImage: UIImageView!
     
-    var imageBrain = ImageBrain()
+    private var imageBrain = ImageBrain()
     
     override func viewDidLoad() {
         super.viewDidLoad()
         setImage()
     }
     
-    func setImage() {
+  private func setImage() {
         imageBrain.getImage {[weak self] (img1, img2, img3, img4) in
             DispatchQueue.main.async {
                 self?.leftTopImage.image = img1 != nil ? UIImage(data: img1!) : self?.leftTopImage.image
