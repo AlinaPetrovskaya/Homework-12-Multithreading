@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8FDEADDF-CE11-4747-B76F-DC6BB0089552"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08D4D209-8DD5-4926-A9F7-9A70B3DF18CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multithreading/ImageBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getImage(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08D4D209-8DD5-4926-A9F7-9A70B3DF18CB - cfbadef21031bd88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multithreading.ImageBrain.getImage(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viktorpetrovskij/Documents/Alina%20projects/Homeworks/Homework%2012/Multithreading/Multithreading/ImageBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "08D4D209-8DD5-4926-A9F7-9A70B3DF18CB - 7495d51b76b2630c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;) -&gt; () in Multithreading.ImageBrain.getImage(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viktorpetrovskij/Documents/Alina%20projects/Homeworks/Homework%2012/Multithreading/Multithreading/ImageBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "97">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E0826E4-26A0-4CC4-AE15-FDBC359B00B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multithreading/ImageBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getDataAtTheSameTime(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4E0826E4-26A0-4CC4-AE15-FDBC359B00B7 - f5150e588d632880"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Multithreading.ImageBrain.takeDataAtTheSameTime(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viktorpetrovskij/Documents/Alina%20projects/Homeworks/Homework%2012/Multithreading/Multithreading/ImageBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "71"
+                  endingLineNumber = "71"
+                  offsetFromSymbolStart = "690">
+               </Location>
+               <Location
+                  uuid = "4E0826E4-26A0-4CC4-AE15-FDBC359B00B7 - f9c068d2fdd2d029"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in Multithreading.ImageBrain.takeDataAtTheSameTime(completion: (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;Foundation.Data&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Multithreading"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/viktorpetrovskij/Documents/Alina%20projects/Homeworks/Homework%2012/Multithreading/Multithreading/ImageBrain.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93D6D818-494A-4EB1-B6DA-8C9946EA2395"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multithreading/ImageBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "getDataAtTheSameTime(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CB94F7E5-6DCF-4F25-A462-B2915F57DDDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multithreading/ImageBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "131"
+            endingLineNumber = "131"
+            landmarkName = "downloadImage(with:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE6AB7DA-DABF-458C-985D-EFAF4A77303E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Multithreading/ImageBrain.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "getImage(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

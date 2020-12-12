@@ -52,6 +52,12 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="GgP-cI-G8Z" secondAttribute="bottom" id="tfs-xh-ztG"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="leftBottomImage" destination="XoI-Sv-ASG" id="rhB-RD-I6I"/>
+                        <outlet property="leftTopImage" destination="gae-y3-muv" id="yFJ-9q-MJn"/>
+                        <outlet property="rightBottomImage" destination="b0A-OE-sw0" id="f4l-es-GGU"/>
+                        <outlet property="rightTopImage" destination="8sH-Sr-Wmh" id="mip-Pd-4LL"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>

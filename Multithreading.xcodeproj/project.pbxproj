@@ -13,6 +13,8 @@
 		6831D4CD257D3F3300BD7A54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6831D4CB257D3F3300BD7A54 /* Main.storyboard */; };
 		6831D4CF257D3F3500BD7A54 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6831D4CE257D3F3500BD7A54 /* Assets.xcassets */; };
 		6831D4D2257D3F3500BD7A54 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6831D4D0257D3F3500BD7A54 /* LaunchScreen.storyboard */; };
+		6831D4F125801D0900BD7A54 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6831D4F025801D0900BD7A54 /* Constants.swift */; };
+		6831D4F525801F4200BD7A54 /* ImageBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6831D4F425801F4200BD7A54 /* ImageBrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		6831D4CE257D3F3500BD7A54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6831D4D1257D3F3500BD7A54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6831D4D3257D3F3500BD7A54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6831D4F025801D0900BD7A54 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		6831D4F425801F4200BD7A54 /* ImageBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				6831D4C5257D3F3300BD7A54 /* AppDelegate.swift */,
 				6831D4C7257D3F3300BD7A54 /* SceneDelegate.swift */,
 				6831D4C9257D3F3300BD7A54 /* ViewController.swift */,
+				6831D4F425801F4200BD7A54 /* ImageBrain.swift */,
+				6831D4F025801D0900BD7A54 /* Constants.swift */,
 				6831D4CB257D3F3300BD7A54 /* Main.storyboard */,
 				6831D4CE257D3F3500BD7A54 /* Assets.xcassets */,
 				6831D4D0257D3F3500BD7A54 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 				6831D4CA257D3F3300BD7A54 /* ViewController.swift in Sources */,
 				6831D4C6257D3F3300BD7A54 /* AppDelegate.swift in Sources */,
 				6831D4C8257D3F3300BD7A54 /* SceneDelegate.swift in Sources */,
+				6831D4F525801F4200BD7A54 /* ImageBrain.swift in Sources */,
+				6831D4F125801D0900BD7A54 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
